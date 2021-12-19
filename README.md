@@ -1,2 +1,2 @@
 # LOWESS_Regression-
-Implimented LOWESS regression with a closedd from solution. 
+Implimented LOWESS regression with a closed from solution. 
